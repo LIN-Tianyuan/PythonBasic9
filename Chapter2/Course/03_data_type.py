@@ -1,0 +1,8 @@
+print("J'aime la pomme.")
+print(10 + 20)
+print(10 - 20)
+print(10 * 20)
+print(10 / 20)
+print(9 // 2)
+print(9 % 2)
+print(2 ** 3)
